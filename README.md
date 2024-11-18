@@ -21,7 +21,7 @@ Este desafio exibe as últimas linhas de um arquivo, semelhante ao comando tac e
 python last_lines.py
 ```
 
-### 2. Computed Property
+### 3. Computed Property
 Este desafio demonstra o uso de propriedades computadas em Python, com dependências automáticas e cache.
 
 
@@ -34,8 +34,3 @@ python computed_property.py
 Python 3.9
 Nenhuma biblioteca adicional é necessária, tudo é feito com bibliotecas nativas do Python.
 
-.
-├── README.md               # Este arquivo
-├── computed_property.py    # Desafio Computed Property
-├── last_lines.py           # Desafio Last Lines
-├── reconcile_accounts.py   # Desafio Reconcile Accounts
